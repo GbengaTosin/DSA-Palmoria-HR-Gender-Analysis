@@ -58,7 +58,8 @@ The dataset was provided as part of the DSA (Digital Skillup Africa) program for
 
 ## Visual Preview
 
-Here is a sample chart from my Excel analysis:
+Here are some sample chart from my Excel analysis:
 
-![Sales Chart](https://github.com/GbengaTosin/DSA-Palmoria-HR-Gender-Analysis/blob/main/Screenshot%202025-07-04%20181132.png)
+![Sales Chart](https://github.com/GbengaTosin/DSA-Palmoria-HR-Gender-Analysis/blob/main/Screenshot%202025-07-04%20181730.png)
+
 
