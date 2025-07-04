@@ -56,4 +56,9 @@ The final Power BI report was built using interactive visuals and DAX measures. 
 
 The dataset was provided as part of the DSA (Digital Skillup Africa) program for educational purposes and is based on a fictional manufacturing company in Nigeria. All data has been anonymized and is safe for public presentation.
 
-## Visualisation
+## Visual Preview
+
+Here is a sample chart from my Excel analysis:
+
+![Sales Chart]
+
